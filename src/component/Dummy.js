@@ -6,7 +6,7 @@ function Dummy() {
     <div>
     
     <div>
-                <input type="email" placeholder="lucasdebelder@imd.com" required="required" />
+                <input type="email " placeholder="lucasdebelder@imd.com" required="required" />
                 <button class="button"><p class="bold">loop mee</p> </button>
             </div>
       
